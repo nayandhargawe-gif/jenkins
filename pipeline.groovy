@@ -32,5 +32,4 @@ pipeline {
                 echo "deploy successfull"
             }
         }
-    }
-}
+    
